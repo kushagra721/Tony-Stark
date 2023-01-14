@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    
+    background-color: rgb(33, 30, 30);
+    height: 715px;
+    width: 250px;
+    position: fixed;
+    
+}
+.img{
+   border-radius: 60%;
+   padding:10px;
+}
+.t{
+    padding: 10px;
+    padding-left: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.p{
+    padding: 10px;
+    padding-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.button{
+    margin: 10px;
+    margin-left: 25px;
+}
+.b1{
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+}
+.main{
+    left: 16.3%;
+    width: 1282px;
+    height: 360px;
+    
+    position: absolute;
+    background-color: rgb(33, 30, 30);
+}
+.a{
+    padding: 30px;
+    color: white;
+}
+.m{
+    position: absolute;
+    width: 472px;
+    height: 430px;
+    left: 27px;
+    top: 86px;
+    color: white;
+}
+.jpg{
+    position: absolute;
+    top: 15px;
+    width: 700px;
+    height: 327px;
+    border-radius: 30px;
+    margin-left: 560px;
+   
+  
+    
+}
+.tabl{
+    background-color:  rgb(33, 30, 30);
+    position: absolute;
+    top:360px;
+    left: 250px;
+    height: 352px;
+    width: 1280px;
+   
+}
+.tab{
+    color: white;
+    position: absolute;
+    left:35px ;
+    width: 1180px;
+    
+}
+td{
+    color: white;
+}
+th{
+    color: white;
+}
+
+.x{
+    position: absolute;
+    color: white;
+    left: 25px;
+    top: 335px;
+}
